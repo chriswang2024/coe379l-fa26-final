@@ -1,0 +1,723 @@
+[
+  {
+    "id": "coursework.ece302.circuits",
+    "title": "ECE 302: Introduction to Electrical Engineering",
+    "section": "Course Content",
+    "source": "coursework",
+    "text": "In Fall 2024, Chris studied introductory circuit analysis in ECE 302 at UT Austin. The syllabus covers Kirchhoff’s laws, node analysis, superposition and Thevenin equivalents, op-amps, capacitors, MOSFETs, frequency-domain analysis, complex impedance and Fourier series."
+  },
+  {
+    "id": "coursework.ece302.measurement",
+    "title": "ECE 302: Introduction to Electrical Engineering",
+    "section": "MOSFET Lab",
+    "source": "coursework",
+    "text": "An ECE 302 MOSFET lab compared drain current across a range of gate voltages. The post-lab calculations estimated a 1.42 V threshold voltage and 9.38 mS transconductance; these are reported estimates."
+  },
+  {
+    "id": "coursework.ece302.pcb",
+    "title": "ECE 302: Introduction to Electrical Engineering",
+    "section": "PCB Design Files",
+    "source": "coursework",
+    "text": "An ECE 302 lab board design associated with Chris includes a KiCad schematic, PCB layout, and exported Gerber and drill files. The available evidence does not establish who performed each design step or whether the board was fabricated."
+  },
+  {
+    "id": "coursework.ece306.assembly",
+    "title": "ECE 306: Introduction to Computing",
+    "section": "LC-3 Assembly",
+    "source": "coursework",
+    "text": "In Fall 2024 ECE 306 work, Chris wrote LC-3 assembly programs using registers, masking, branching and memory access. One program adds two packed two’s-complement values and checks overflow; another sorts values in ascending order and invokes a comparison subroutine."
+  },
+  {
+    "id": "coursework.ece306.interrupts",
+    "title": "ECE 306: Introduction to Computing",
+    "section": "Interrupts and System Programming",
+    "source": "coursework",
+    "text": "Chris’s ECE 306 Lab 5 assembly implementation sets up a keyboard interrupt vector and interrupt enable, a system stack, and a return to user mode. A final demonstration result has not been established."
+  },
+  {
+    "id": "coursework.ece312h.matrices",
+    "title": "ECE 312H: Software Design and Implementation I",
+    "section": "Matrix Operations",
+    "source": "coursework",
+    "text": "In Spring 2025 ECE 312H, Chris wrote C-style code for multiplying matrices both as row-major arrays and as dynamically allocated pointer arrays. The same assignment file creates a submatrix by excluding a selected row and column. The code documents pointer indexing and dynamic allocation."
+  },
+  {
+    "id": "coursework.ece312h.queue",
+    "title": "ECE 312H: Software Design and Implementation I",
+    "section": "Queue Data Structure",
+    "source": "coursework",
+    "text": "Chris’s ECE 312H queue implementation uses dynamic memory for an integer queue and includes operations to duplicate, enqueue, dequeue, reverse, combine and free queues."
+  },
+  {
+    "id": "coursework.ece312h.interpreter",
+    "title": "ECE 312H: Software Design and Implementation I",
+    "section": "Interpreter",
+    "source": "coursework",
+    "text": "For an ECE 312H programming assignment, Chris wrote a C++ interpreter for a small language with text, output, variable and assignment commands. His implementation parses commands, stores variables in a map and evaluates prefix expressions."
+  },
+  {
+    "id": "coursework.ece319h.traffic-fsm",
+    "title": "ECE 319H: Introduction to Embedded Systems",
+    "section": "Traffic Light Controller",
+    "source": "coursework",
+    "text": "In Spring 2025 ECE 319H, Chris and a lab partner wrote C code for an MSPM0 traffic-light controller. Their design defines a 13-state, pointer-based finite state machine with westbound, southbound and pedestrian signals and configures GPIO for LED outputs and switch inputs. Their individual contributions are not specified."
+  },
+  {
+    "id": "coursework.ece319h.sensor",
+    "title": "ECE 319H: Introduction to Embedded Systems",
+    "section": "Analog Sensor and Communication Labs",
+    "source": "coursework",
+    "text": "Chris and a lab partner’s ECE 319H lab code uses an MSPM0G3507, a slide potentiometer read through a 12-bit ADC, and an ST7735 display. A later joint lab design includes infrared transmission and UART reception using a FIFO queue. Individual contributions and hardware validation results have not been established."
+  },
+  {
+    "id": "coursework.ece316.lab3-fpga-combinational",
+    "title": "ECE 316: Digital Logic Design",
+    "section": "FPGA Combinational Logic",
+    "source": "coursework",
+    "text": "In ECE 316, Chris and a lab partner documented a BCD-to-seven-segment decoder for the Basys 3 FPGA. Their report includes a truth table, minimized equations, structural Verilog, a testbench stepping through all 16 input combinations, simulation waveforms and pin constraints."
+  },
+  {
+    "id": "coursework.ece316.lab4-fsm-and-display",
+    "title": "ECE 316: Digital Logic Design",
+    "section": "Sequential Logic",
+    "source": "coursework",
+    "text": "In a joint ECE 316 lab report, Chris and a partner designed clocked Verilog finite state machines, including a flight-attendant call system, a rising-edge detector and a four-digit multiplexed display controller. The report includes Verilog, testbenches and Basys 3 pin constraints."
+  },
+  {
+    "id": "coursework.ece316.lab5-adders-calculator",
+    "title": "ECE 316: Digital Logic Design",
+    "section": "Adder Design Tradeoffs",
+    "source": "coursework",
+    "text": "For an ECE 316 lab, Chris and a partner designed 4-bit ripple-carry and carry-lookahead adders with an enabled result register. Their report calculates critical-path delays of 28 ns and 17 ns respectively, with relative gate areas of 128 and 168. These are hand calculations under the lab’s assumed gate model, not measured hardware timings."
+  },
+  {
+    "id": "coursework.ece333t.task-force-contribution",
+    "title": "ECE 333T: Engineering Communication",
+    "section": "Stakeholder Deliberation",
+    "source": "coursework",
+    "text": "In an ECE 333T classroom task-force simulation on AI-enabled campus surveillance, Chris represented a faculty perspective. His reflection says he proposed privacy safeguards against routine tracking, use in hiring, surveillance inside individual faculty offices and collection of intellectual property; he also helped the group discuss evidence review and oversight of a limited pilot."
+  },
+  {
+    "id": "coursework.ugs104.seminar-lesson-plan",
+    "title": "UGS 104: FIG/TrIG Peer Mentor Preparation Course",
+    "section": "Seminar Planning",
+    "source": "coursework",
+    "text": "In Spring 2026, Chris developed a proposed 50-minute peer-mentor seminar on internships and career fairs. The plan covered recruiting timelines, Engineering Expo preparation and job boards, with a paired activity for students to practice and give feedback on elevator pitches."
+  },
+  {
+    "id": "coursework.math2318.gen-ed-assessment",
+    "title": "MATH 2318: Linear Algebra",
+    "section": "Linear Transformation Assessment",
+    "source": "coursework",
+    "text": "In a MATH 2318 assessment, Chris analyzed the transformation T(A) = BA − AB on 2-by-2 matrices. His work checks linearity, derives a basis for the kernel, constructs a preimage to demonstrate range membership and gives a counterexample to show the transformation is not one-to-one."
+  },
+  {
+    "id": "coursework.ece125s.internship-credit",
+    "title": "ECE 125S: Internship in Electrical and Computer Engineering",
+    "section": "Internship Credit",
+    "source": "coursework",
+    "text": "Chris’s summer 2026 Celanese internship was associated with ECE 125S, which required a technical report connecting internship work to electrical and computer engineering coursework. Report submission and course credit have not been confirmed."
+  },
+  {
+    "id": "coursework.ece411.rlc",
+    "title": "ECE 411: Circuit Theory",
+    "section": "Transient Circuit Labs",
+    "source": "coursework",
+    "text": "In a Fall 2025 ECE 411 lab, recorded RLC transient observations compared a 2-kilohm case described as overdamped with 510-ohm and 100-ohm cases described as underdamped. The lower resistance showed more oscillation. Individual contributions to the lab record are not specified."
+  },
+  {
+    "id": "coursework.ece411.filters",
+    "title": "ECE 411: Circuit Theory",
+    "section": "Filter Frequency Response",
+    "source": "coursework",
+    "text": "An ECE 411 filter lab record tabulates output voltages and gain across frequencies from 10 Hz to 10 kHz. For the low-pass configuration, it reports 75 mV output at the calculated 79.58 Hz cutoff with a 100 mV reference input, versus an expected 70.7 mV; a second set of readings shows the contrasting high-pass response."
+  },
+  {
+    "id": "coursework.ece351k.review",
+    "title": "ECE 351K: Probability and Random Processes",
+    "section": "Probability Foundations",
+    "source": "coursework",
+    "text": "Chris studied probability in ECE 351K in Fall 2026. Course topics included probability axioms, conditional probability, Bayes’ rule, independence, counting, discrete random variables, expectation, variance and joint distributions."
+  },
+  {
+    "id": "coursework.m325k.logic",
+    "title": "M 325K: Discrete Mathematics",
+    "section": "Logic and Proof",
+    "source": "coursework",
+    "text": "In a Spring 2026 M 325K homework assignment, Chris constructed propositional truth tables, checked logical equivalence and identified a contradiction, applying symbolic logic in discrete mathematics."
+  },
+  {
+    "id": "coursework.m427j.course-overview",
+    "title": "M 427J: Differential Equations with Linear Algebra",
+    "section": "Course Content",
+    "source": "coursework",
+    "text": "Chris took M 427J at UT Austin in Spring 2025. The course introduced ordinary and partial differential equations with an emphasis on linear algebra and systems of equations."
+  },
+  {
+    "id": "coursework.m427l.vector-calculus",
+    "title": "M 427L: Multivariable and Vector Calculus",
+    "section": "Course Materials",
+    "source": "coursework",
+    "text": "Chris took M 427L at UT Austin in Spring 2026. Course material covered vectors in three dimensions, dot products, angles and vector projections."
+  },
+  {
+    "id": "coursework.cms344k.course-overview",
+    "title": "CMS 344K: Lying and Deception",
+    "section": "Course Content",
+    "source": "coursework",
+    "text": "In Fall 2025, Chris’s CMS 344K course materials describe an examination of lying, deception, secrecy, privacy, disclosure and confidentiality in different contexts. The course also included an interview-based course project."
+  },
+  {
+    "id": "coursework.cms345p.course-overview",
+    "title": "CMS 345P: Communication and Public Opinion",
+    "section": "Course Content",
+    "source": "coursework",
+    "text": "The Fall 2025 CMS 345P syllabus covers how public opinion is defined and measured, how it changes, and how media and perceptions of others’ views influence it. The course included a research project involving literature review, a research method and a results presentation."
+  },
+  {
+    "id": "coursework.ugs303.essay-3-border-policy",
+    "title": "UGS 303: Drugs, Commerce, and Immigration in U.S.-Mexico Relations",
+    "section": "Research and Argument",
+    "source": "coursework",
+    "text": "In a UGS 303 essay, Chris analyzed a proposed partial opening of the U.S.–Mexico border and argued for reduced barrier investment and inspections. The essay uses cited sources to discuss trade, consumer costs, immigration and drug trafficking, illustrating evidence-based written argument rather than claiming the policy was enacted or its predicted effects measured."
+  },
+  {
+    "id": "project.steam-day-escape-room.overview",
+    "title": "STEAM Day Escape Room (Celanese)",
+    "section": "Overview",
+    "source": "project",
+    "text": "During his 2026 Celanese internship, Chris built an Arduino Uno escape room for STEAM Day. Puzzles included a Morse-code LED, a Simon Says game using illuminated buttons, and a DHT22 temperature sensor. His résumé reports about 60 participants in rotating 15-minute sessions."
+  },
+  {
+    "id": "project.steam-day-escape-room.software-and-vision",
+    "title": "STEAM Day Escape Room (Celanese)",
+    "section": "Software and computer vision",
+    "source": "project",
+    "text": "For the Celanese STEAM Day escape room, Chris combined Arduino C++ and Python. His résumé describes streaming sensor readings to a live Python display using pySerial and a fourth puzzle using MediaPipe Face Mesh to recognize a player’s facial expression."
+  },
+  {
+    "id": "project.accuracy-prime-experiment.overview",
+    "title": "Accuracy Prime and Motivated Reasoning Survey Experiment (CMS 345P)",
+    "section": "Research question",
+    "source": "project",
+    "text": "For his Fall 2025 CMS 345P class project, Chris investigated whether an accuracy prime—asking people to reason as accurately and neutrally as possible—reduces motivated reasoning. He compared a treatment group with a control group on bias and changes in opinion about gun control."
+  },
+  {
+    "id": "project.accuracy-prime-experiment.analysis-methods",
+    "title": "Accuracy Prime and Motivated Reasoning Survey Experiment (CMS 345P)",
+    "section": "Methods",
+    "source": "project",
+    "text": "In his CMS 345P survey experiment, Chris calculated each participant’s bias score, opinion change, and movement toward or away from the scale midpoint. He used two-tailed Welch’s t-tests to compare independent treatment and control groups."
+  },
+  {
+    "id": "project.accuracy-prime-experiment.results",
+    "title": "Accuracy Prime and Motivated Reasoning Survey Experiment (CMS 345P)",
+    "section": "Results",
+    "source": "project",
+    "text": "Chris’s CMS 345P experiment had 37 respondents: 17 treatment and 20 control. Mean bias scores were 2.73 and 2.50; mean opinion changes were 0.59 and 0.40. The Welch tests found no statistically significant differences in bias, opinion change, or moderation (p = 0.86, 0.84, and 0.83 respectively). The predominantly young sample limits generalization."
+  },
+  {
+    "id": "project.cms344k-interview-project.proposal",
+    "title": "Interview-Based Research Project (CMS 344K)",
+    "section": "Research method",
+    "source": "project",
+    "text": "For a Fall 2025 CMS 344K project, Chris and a partner interviewed a law-enforcement professional about deception. Chris prepared questions about recognizing deception, the ethics of deception in interviews, and assisted lie detection. A final analysis was not available for review."
+  },
+  {
+    "id": "project.evidence-backed-portfolio-assistant.overview",
+    "title": "Evidence-Backed Portfolio Assistant (COE 379L Final Project)",
+    "section": "Overview",
+    "source": "project",
+    "text": "For their Fall 2026 COE 379L final project, Chris and a partner proposed an evidence-backed portfolio assistant to answer questions about a person’s education, skills and experience using an owner-approved corpus. The team planned retrieval, citation checking and abstention when evidence is insufficient. As of late November 2026, the project was at the proposal and scaffold stage."
+  },
+  {
+    "id": "project.evidence-backed-portfolio-assistant.architecture",
+    "title": "Evidence-Backed Portfolio Assistant (COE 379L Final Project)",
+    "section": "Architecture and Data Flow",
+    "source": "project",
+    "text": "The planned COE 379L portfolio assistant combines a Python backend, retrieval tools, a language model and a Lean validator. The design has the server track retrieved passage IDs and check the model’s proposed citations against them. The integration specification uses those IDs for internal checking and defines a plain-text browser reply; it does not specify displaying citations to visitors."
+  },
+  {
+    "id": "project.evidence-backed-portfolio-assistant.lean-validator",
+    "title": "Evidence-Backed Portfolio Assistant (COE 379L Final Project)",
+    "section": "Lean Validator Design",
+    "source": "project",
+    "text": "For the proposed COE 379L portfolio assistant, Chris was assigned a Lean validator designed to reject malformed responses and answers whose paragraphs lack citations to passages retrieved for that request. The team also planned checks for abstentions and scripted validation cases. As of late November 2026, the checker was specified but not yet implemented."
+  },
+  {
+    "id": "project.evidence-backed-portfolio-assistant.evaluation-plan",
+    "title": "Evidence-Backed Portfolio Assistant (COE 379L Final Project)",
+    "section": "Evaluation Plan",
+    "source": "project",
+    "text": "The proposed COE 379L portfolio assistant would be evaluated on factual accuracy, support from retrieved passages, coverage and appropriate abstention, including cases involving prompt injection. The team also planned scripted cases for valid and invalid validator inputs. Evaluation results were not yet available in late November 2026."
+  },
+  {
+    "id": "project.evidence-backed-portfolio-assistant.individual-contribution",
+    "title": "Evidence-Backed Portfolio Assistant (COE 379L Final Project)",
+    "section": "Individual Contribution and Status",
+    "source": "project",
+    "text": "The Fall 2026 COE 379L portfolio-assistant proposal assigns Chris the chat interface, owner-approved corpus, Lean validator, and validator test cases. His partner is assigned retrieval and model integration; both share integration, documentation and presentation. These are planned responsibilities in a two-person project."
+  },
+  {
+    "id": "project.atlas-laboratory-agent.overview",
+    "title": "Atlas Laboratory Agent (COE 379L Midterm Project)",
+    "section": "Project",
+    "source": "project",
+    "text": "For his Fall 2026 COE 379L midterm, Chris implemented Atlas, a Python language-model agent for simulated laboratory reservations. His résumé lists Pydantic and pytest and describes retrieval-augmented generation, tool calling, structured outputs, and authorization and response-grounding checks within a bounded agent loop. The repository includes policy retrieval, validation, a simulated environment and automated tests."
+  },
+  {
+    "id": "project.atlas-laboratory-agent.public-benchmark-results",
+    "title": "Atlas Laboratory Agent (COE 379L Midterm Project)",
+    "section": "Public benchmark",
+    "source": "project",
+    "text": "The saved public benchmark for Chris’s Atlas laboratory agent contains six scenarios and reports a 1.0 success rate, zero invalid structured responses, zero unsafe action attempts, and an average of 2.67 tool calls. These figures describe the saved public scenarios, not performance in a real laboratory."
+  },
+  {
+    "id": "project.stopwatch-timer-basys3.overview",
+    "title": "Programmable Stopwatch/Timer on Basys 3 (ECE 316 Lab 6)",
+    "section": "Implementation",
+    "source": "project",
+    "text": "Chris’s ECE 316 Lab 6 report documents a Verilog stopwatch/timer design for the Basys 3 FPGA. The design combines debounced push-button input, a controller, counting logic, clock enables, and a multiplexed four-digit seven-segment display."
+  },
+  {
+    "id": "project.stopwatch-timer-basys3.debounce-and-clocking",
+    "title": "Programmable Stopwatch/Timer on Basys 3 (ECE 316 Lab 6)",
+    "section": "Input and timing design",
+    "source": "project",
+    "text": "In Chris’s ECE 316 Lab 6 stopwatch/timer design, button inputs pass through synchronization and debounce logic. The Verilog generates separate 10 ms counting and 1 ms display-scanning enables and converts the counter value to display digits."
+  },
+  {
+    "id": "project.tetris-mspm0g3507.overview",
+    "title": "Tetris on MSPM0G3507 (ECE 319H Final Project)",
+    "section": "Overview",
+    "source": "project",
+    "text": "For the ECE 319H final project, Chris and a teammate worked on an embedded Tetris game using a TI MSPM0G3507 microcontroller and a color display. Their work included C++ game logic, hardware-related code and a team task plan."
+  },
+  {
+    "id": "project.tetris-mspm0g3507.contribution",
+    "title": "Tetris on MSPM0G3507 (ECE 319H Final Project)",
+    "section": "Individual contribution",
+    "source": "project",
+    "text": "The ECE 319H Tetris team’s task list attributes a 30 Hz timer to sample the slide potentiometer, menu system, language selection, LED blink and initialization, and button helper functions to Chris. It assigns the game engine to his teammate; the list is evidence of a division of tasks, not a complete contribution log."
+  },
+  {
+    "id": "project.tetris-mspm0g3507.scope-status",
+    "title": "Tetris on MSPM0G3507 (ECE 319H Final Project)",
+    "section": "Evidence and limitations",
+    "source": "project",
+    "text": "The ECE 319H Tetris project included source code and a PCB design. A measured demonstration outcome and PCB fabrication have not been confirmed."
+  },
+  {
+    "id": "project.acoustic-leak-detection-proposal.problem-and-audience",
+    "title": "Acoustic Leak Detection Proposal for Clear Lake (ECE 333T)",
+    "section": "Problem and proposal",
+    "source": "project",
+    "text": "In an ECE 333T proposal draft, Chris examined water loss in Clear Lake and proposed that the Clear Lake City Water Authority evaluate a targeted pilot of acoustic leak-detection sensors. The draft cites 2024 water-loss estimates and frames the pilot as a way to locate hard-to-detect leaks."
+  },
+  {
+    "id": "project.acoustic-leak-detection-proposal.rationale-and-limitations",
+    "title": "Acoustic Leak Detection Proposal for Clear Lake (ECE 333T)",
+    "section": "Evaluation and limitations",
+    "source": "project",
+    "text": "Chris’s ECE 333T acoustic leak-detection draft compares the proposed pilot with reactive maintenance and periodic surveys. It recommends evaluating localization, investigation yield, maintenance, water savings, cost, false positives, and compatibility with local pipe materials. The pilot is a proposal; the available draft does not establish that it was implemented."
+  },
+  {
+    "id": "project.java-fundamentals-assignment-1.pos-tagger",
+    "title": "Java Problem-Solving Assignment 1 (ECE 422C)",
+    "section": "Natural language processing",
+    "source": "project",
+    "text": "For ECE 422C Assignment 1, Chris wrote a Java program that used the Stanford part-of-speech tagger to label words in a sentence and packaged the program and dependency in a runnable JAR."
+  },
+  {
+    "id": "project.mastermind-game.overview",
+    "title": "Mastermind Text Game (ECE 422C Assignment 2)",
+    "section": "Implementation",
+    "source": "project",
+    "text": "For ECE 422C, Chris implemented a text-based Java Mastermind game. The project separates game control, guess validation, feedback, configuration and secret-code generation into classes; feedback distinguishes exact-position matches from correct colors in the wrong position."
+  },
+  {
+    "id": "project.graphpoet-assignment-4.overview",
+    "title": "GraphPoet: Graph-Based Poem Generator (ECE 422C Assignment 4)",
+    "section": "Implementation",
+    "source": "project",
+    "text": "Chris’s ECE 422C GraphPoet project builds a weighted graph of word adjacencies from a text corpus and uses it to insert bridge words into new text. The Java submission includes generic Graph and Vertex classes backed by hash maps, along with GraphPoet and a driver."
+  },
+  {
+    "id": "project.android-weather-app.overview",
+    "title": "Android Weather App (ECE 422C Assignment 5)",
+    "section": "Implementation",
+    "source": "project",
+    "text": "For ECE 422C, Chris developed a Java Android weather app. Its code requests location, fetches forecast data from Open-Meteo using Volley, parses the response into weather models, and presents weather information in an Android interface."
+  },
+  {
+    "id": "project.android-weather-app.ai-summary",
+    "title": "Android Weather App (ECE 422C Assignment 5)",
+    "section": "AI integration",
+    "source": "project",
+    "text": "Chris’s ECE 422C Android weather app includes a Gemini integration that requests a natural-language summary of current forecast data. The code uses the Google generative AI client and handles the model response asynchronously."
+  },
+  {
+    "id": "project.pipelined-lc3b-simulator.overview",
+    "title": "Pipelined LC-3b Processor Simulator (ECE 460N)",
+    "section": "Implementation",
+    "source": "project",
+    "text": "For ECE 460N in Spring 2026, Chris developed a C simulator for a five-stage pipelined LC-3b processor using a course-provided simulator framework. The source includes pipeline stage logic, control-store signals, and handling for dependency and memory stalls."
+  },
+  {
+    "id": "project.pipelined-lc3b-simulator.testing",
+    "title": "Pipelined LC-3b Processor Simulator (ECE 460N)",
+    "section": "Testing and limitations",
+    "source": "project",
+    "text": "Chris’s ECE 460N pipelined LC-3b simulator includes assembly test programs and stall signals for control and data dependencies. Final reference-simulator results and measured performance have not been established."
+  },
+  {
+    "id": "project.lc3b-simulator-toolchain.overview",
+    "title": "LC-3b Assembler and Simulators (ECE 460N Labs 1-5)",
+    "section": "Project sequence",
+    "source": "project",
+    "text": "In ECE 460N, Chris worked on a series of LC-3b computer-architecture labs in C, including an assembler, instruction-level and microcoded simulators, interrupts and exceptions, and virtual memory. Course-provided shells and specifications supported the simulator assignments."
+  },
+  {
+    "id": "project.lc3b-simulator-toolchain.virtual-memory",
+    "title": "LC-3b Assembler and Simulators (ECE 460N Labs 1-5)",
+    "section": "Virtual memory",
+    "source": "project",
+    "text": "Chris’s Spring 2026 ECE 460N Lab 5 report describes extending the simulator’s microcoded datapath for virtual-address translation. It documents page-table entry reads and writes, reference and modified bits, translation control, and page-fault and protection exceptions."
+  },
+  {
+    "id": "project.personal-website.overview",
+    "title": "Personal Website and Private App Hub",
+    "section": "Frontend",
+    "source": "project",
+    "text": "Chris’s personal website includes a WebGL galaxy on the home page with a scroll-driven flythrough, a cursor lens and a click-triggered shockwave. The site uses static HTML, CSS and JavaScript."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.role-overview",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "Overview",
+    "source": "professional_experience",
+    "text": "Chris worked as a Digital Manufacturing Intern at Celanese in the Houston area from May through August 2026. His résumé describes work on an SAP MII operating-time dashboard, a digital-idea valuation framework and React/Vite prototype, documentation and enhancement requirements, and a Smartsheet intake and tracking process."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.sap-mii-dashboard",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "SAP MII Dashboard",
+    "source": "professional_experience",
+    "text": "During his Celanese internship, Chris built an SAP MII dashboard for the Celanese/Dow Sabine River joint venture. His résumé says it tracked operating time and enabled Finance to compare operating-time and billing data and model cost scenarios."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.valuation-framework",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "Digital-Idea Valuation Framework",
+    "source": "professional_experience",
+    "text": "At Celanese, Chris defined a digital-idea valuation framework that condensed 11 evaluation criteria into four value categories. His résumé reports adoption by the Digital Manufacturing, Continuous Improvement, and Finance teams."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.react-prototype-overview",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "React/Vite Prototype",
+    "source": "professional_experience",
+    "text": "At Celanese, Chris developed a React/Vite front-end prototype showing a unified workflow for digital-idea submission, evaluation and prioritization. Production deployment has not been established."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.catalyst-platform-documentation",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "Documentation and Requirements",
+    "source": "professional_experience",
+    "text": "During his Celanese internship, Chris authored end-user documentation and defined enhancement requirements for an enterprise platform that, according to his résumé, supported more than $300 million in catalyst inventory."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.smartsheet-intake-tracker",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "Smartsheet Intake and Tracking",
+    "source": "professional_experience",
+    "text": "Chris deployed a Smartsheet intake form and tracker at Celanese to centralize supply-stock reporting for approximately 15 site custodial staff, according to his résumé."
+  },
+  {
+    "id": "professional_experience.hm-sales-advisor.overview",
+    "title": "H&M Sales Advisor",
+    "section": "Customer Service and Operations",
+    "source": "professional_experience",
+    "text": "Chris worked as a Sales Advisor at H&M in Houston from May 2025 to January 2026. His résumé reports handling point-of-sale transactions, merchandising and store organization, and exceeding the store goal of 65% loyalty transactions by communicating membership benefits to customers."
+  },
+  {
+    "id": "professional_experience.intuit-turbotax-product-expert.overview",
+    "title": "Intuit via Education at Work: TurboTax Product Expert",
+    "section": "Customer Support",
+    "source": "professional_experience",
+    "text": "From January through April 2026, Chris worked remotely as a TurboTax Product Expert for Intuit via Education at Work. He assisted customers by phone, and his résumé reports a consistent 100% satisfaction rate and a high net promoter score during the tax season."
+  },
+  {
+    "id": "professional_experience.ece-tutor.overview",
+    "title": "UT Austin ECE Tutor",
+    "section": "Honors Course Tutoring",
+    "source": "professional_experience",
+    "text": "From January through May 2026, Chris tutored approximately 30 students in C programming, ARM assembly, embedded systems, and PCB design in KiCad for two UT Austin honors courses: Embedded Systems and Software Design & Implementation I."
+  },
+  {
+    "id": "leadership_and_service.fig-mentor.overview",
+    "title": "UT Austin ECE Resistance FIG Peer Mentor",
+    "section": "Mentoring",
+    "source": "leadership_and_service",
+    "text": "Beginning in fall 2026, Chris served as a peer mentor for the ECE Resistance First-Year Interest Group at UT Austin. He facilitated weekly seminars and community-building activities and helped first-year students navigate academic resources, course registration and professional development."
+  },
+  {
+    "id": "leadership_and_service.fig-mentor.expo-and-careers",
+    "title": "UT Austin ECE Resistance FIG Peer Mentor",
+    "section": "Career Preparation",
+    "source": "leadership_and_service",
+    "text": "As an ECE Resistance FIG mentor in fall 2026, Chris prepared a presentation on Engineering Expo, internships, and jobs, including résumé and elevator-pitch preparation and researching target employers. In his mentor reapplication, he reported reviewing mentees’ résumés and said several later used his advice."
+  },
+  {
+    "id": "leadership_and_service.fig-mentor.housing-and-resources",
+    "title": "UT Austin ECE Resistance FIG Peer Mentor",
+    "section": "Student Resources",
+    "source": "leadership_and_service",
+    "text": "Chris prepared ECE Resistance FIG presentations on topics including student housing, study abroad, course registration, wellness, and campus resources. His housing presentation compared on-campus and off-campus options and discussed lease considerations. His study-abroad presentation compared program types and explained application and funding resources."
+  },
+  {
+    "id": "leadership_and_service.fig-mentor.community-building",
+    "title": "UT Austin ECE Resistance FIG Peer Mentor",
+    "section": "Community Building and Adaptability",
+    "source": "leadership_and_service",
+    "text": "As a FIG mentor in fall 2026, Chris facilitated presentations, tours, study sessions, and activities for first-year students. His reapplication describes helping mentees work through practice problems, organizing study time around shared exams, and adapting the seminar schedule when students had competing deadlines. He also describes a bowling outing that gave students a chance to connect outside class."
+  },
+  {
+    "id": "leadership_and_service.robonauts118.electrical",
+    "title": "FIRST Robotics Team 118 Robonauts",
+    "section": "Electrical Subsystem and Team Leadership",
+    "source": "leadership_and_service",
+    "text": "In high school, Chris participated on the electrical subsystem of FIRST Robotics Competition Team 118, the Robonauts. In team application essays, he describes helping build the robot, working in the pit and scouting during competitions, teaching electrical-system concepts to rookies, and serving as avionics chief engineer for the 2023 season."
+  },
+  {
+    "id": "leadership_and_service.robotics-outreach.elementary-mentoring",
+    "title": "Robotics Mentoring and Outreach",
+    "section": "Elementary Robotics Mentoring",
+    "source": "leadership_and_service",
+    "text": "Chris mentored elementary school students at Ralph Parr Elementary in VEX IQ robotics, introducing engineering concepts and encouraging teamwork. His high-school résumé lists mentoring beginning in September 2020; later Robonauts application essays also describe his mentoring and outreach."
+  },
+  {
+    "id": "leadership_and_service.robotics-outreach.refereeing",
+    "title": "Robotics Mentoring and Outreach",
+    "section": "Competition Volunteering",
+    "source": "leadership_and_service",
+    "text": "Chris’s high-school résumé reports more than 30 hours volunteering as a referee during the 2021–2022 VEX Robotics Competition Tipping Point season. In a Robonauts essay, he also describes volunteering at robotics events by resetting fields and refereeing skills matches."
+  },
+  {
+    "id": "project.ism-can-bus-node.design",
+    "title": "FIRST Robotics CAN Bus Node",
+    "section": "PCB Design",
+    "source": "project",
+    "text": "For a high-school Independent Study Mentorship project, Chris designed a CAN bus distribution PCB for FIRST Robotics devices using Altium Designer. The design uses ten Molex connectors and an optional 120-ohm termination resistor enabled by a solder bridge. Its star layout was intended to isolate a disconnected device rather than interrupt the whole daisy chain; fault isolation was not documented as tested."
+  },
+  {
+    "id": "project.ism-power-distribution.design",
+    "title": "FIRST Robotics Intelligent Power Distribution Unit",
+    "section": "Power Distribution PCB",
+    "source": "project",
+    "text": "In a high-school Independent Study Mentorship project, Chris designed an intelligent power distribution PCB for robotics. His documents describe roboRIO-controlled load switches, resettable PTC fuses for overcurrent protection, status LEDs, and multiple device outputs. He revised the layout to use both sides of the board, add mounting holes and silkscreen labels, and place status LEDs by the outputs."
+  },
+  {
+    "id": "coursework.education.degree-and-honors",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Degree and Honors",
+    "source": "coursework",
+    "text": "Chris Wang is pursuing a B.S. in Electrical and Computer Engineering at The University of Texas at Austin, with expected graduation in May 2028. His résumé lists the Engineering Honors Program, the Computer Architecture and Embedded Systems track, University Honors in all semesters, the Virginia and Ernest Cockrell, Jr. Scholarship in Engineering, and National Merit Finalist recognition."
+  },
+  {
+    "id": "coursework.education.gpa-as-of-spring-2026",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "GPA and Academic Record",
+    "source": "coursework",
+    "text": "Chris is pursuing a B.S. in Electrical and Computer Engineering in the Engineering Honors program at UT Austin. His unofficial academic summary, which lists Fall 2026 enrollment, reports an overall 4.0000 GPA over 54 GPA hours through Spring 2026. Fall 2026 courses appear without final grades in that record."
+  },
+  {
+    "id": "coursework.education.grades-fall-2024-spring-2025",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Course Grades: 2024–2025",
+    "source": "coursework",
+    "text": "Chris’s UT Austin academic summary records grades of A in ECE 302, ECE 306, M 408D, and UGS 303 in Fall 2024; and grades of A in ECE 312H, ECE 319H, M 427J, and PHY 303K in Spring 2025. UGS 016 was recorded as credit in Fall 2024."
+  },
+  {
+    "id": "coursework.education.grades-fall-2025-spring-2026",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Course Grades: 2025–2026",
+    "source": "coursework",
+    "text": "Chris’s UT Austin academic summary records grades of A in CMS 344K, CMS 345P, ECE 411, ECE 422C, and PHY 303E in Fall 2025; and grades of A in ECE 460N, M 325K, and M 427L in Spring 2026. UGS 104T was recorded as credit, and M 311 linear algebra as transfer credit with an A."
+  },
+  {
+    "id": "coursework.education.contact",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Contact",
+    "source": "coursework",
+    "text": "Chris Wang is an Electrical and Computer Engineering student at UT Austin. His résumé lists chris.wang@utexas.edu and (832) 915-6061 as his contact email and phone number, and linkedin.com/in/chriswang2024 as his LinkedIn profile."
+  },
+  {
+    "id": "coursework.education.technical-skills-programming",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Programming and Software Skills",
+    "source": "coursework",
+    "text": "Chris’s engineering résumé lists C, C++, Java, Python, JavaScript, ARM assembly and Verilog, along with Linux/Unix, Git, React and the Android SDK. His coursework and projects include LC-3b simulation in C, FPGA design in Verilog, and Java and embedded-systems projects."
+  },
+  {
+    "id": "coursework.education.technical-skills-hardware",
+    "title": "Education Overview: B.S. in Electrical and Computer Engineering (UT Austin)",
+    "section": "Hardware and Design Skills",
+    "source": "coursework",
+    "text": "Chris’s engineering résumé lists Altium Designer, KiCad, Onshape, PTC Creo, Arduino, oscilloscope use and soldering. His documented work includes robotics PCB designs, embedded-system projects and digital-logic labs."
+  },
+  {
+    "id": "project.ism-power-distribution.prototyping-and-tests",
+    "title": "FIRST Robotics Intelligent Power Distribution Unit",
+    "section": "Prototype and Tests",
+    "source": "project",
+    "text": "Chris’s high-school ISM portfolio says he ordered the power-distribution PCB and documents an assembled prototype. The portfolio reports team tests using power supplies and an oscilloscope: a 22.6-ohm load drew about 0.5 A for five minutes without issue; separate overcurrent and short-circuit tests showed current limiting and one channel stopping while another stayed on."
+  },
+  {
+    "id": "project.ism-can-bus-node.testing-and-use",
+    "title": "FIRST Robotics CAN Bus Node",
+    "section": "Testing and Use",
+    "source": "project",
+    "text": "Chris’s high-school ISM portfolio reports ordering his CAN distribution board and describes team tests in a robot testbed: Falcon 500 motors responded to commands over CAN. He reports that the team then used the board on its 2023 robot without major issues. The portfolio does not document a controlled fault-isolation test."
+  },
+  {
+    "id": "project.ism-can-bus-node.tradeoffs",
+    "title": "FIRST Robotics CAN Bus Node",
+    "section": "Design Tradeoffs",
+    "source": "project",
+    "text": "In his ISM CAN bus node portfolio, Chris discussed a tradeoff of the star wiring arrangement: unused unterminated stubs can affect signal behavior. He compared published termination examples and noted that the design should be reconsidered for high-speed CAN applications. The comparison was research-based, not a measurement of his own board."
+  },
+  {
+    "id": "professional_experience.celanese-digital-manufacturing.react-prototype-implementation",
+    "title": "Celanese Digital Manufacturing Internship",
+    "section": "Prototype Implementation",
+    "source": "professional_experience",
+    "text": "Chris’s Celanese digital-idea prototype uses React and Vite, with Tailwind CSS and React state to support interactive forms, navigation and filtering. The available code documents a front-end prototype; it does not establish production deployment."
+  },
+  {
+    "id": "leadership_and_service.robotics-outreach.referee-certifications-2021",
+    "title": "Robotics Mentoring and Outreach",
+    "section": "Referee Certifications",
+    "source": "leadership_and_service",
+    "text": "In 2021, Chris earned the Robotics Education & Competition Foundation’s VEX IQ Challenge Pitching In Head Referee Certification and VEX Robotics Competition Tipping Point Head Referee Certification. These certificates document preparation for the respective competition seasons; they do not establish a current certification."
+  },
+  {
+    "id": "coursework.ece351k.bayes-worked-examples",
+    "title": "ECE 351K: Probability and Random Processes",
+    "section": "Conditional Probability and Bayes' Rule",
+    "source": "coursework",
+    "text": "ECE 351K probability exercises included applying total probability and Bayes’ rule to the chance that a coin is biased after observing tails, and analyzing conditional probabilities in a three-door problem. Worked solutions were available, but their individual authorship was not identified."
+  },
+  {
+    "id": "coursework.ece351k.continuous-distributions-and-bounds",
+    "title": "ECE 351K: Probability and Random Processes",
+    "section": "Continuous Distributions and Probability Bounds",
+    "source": "coursework",
+    "text": "ECE 351K worked examples included normalizing a joint continuous probability density and integrating it to find marginal densities, using induction for sums of independent Gaussian variables, and comparing Markov and Chebyshev bounds with an exact exponential-tail probability. Individual authorship of the solutions was not identified."
+  },
+  {
+    "id": "coursework.ece411.opamp-lab",
+    "title": "ECE 411: Circuit Theory",
+    "section": "Operational-Amplifier Lab",
+    "source": "coursework",
+    "text": "An ECE 411 lab record reports voltage measurements for inverting and non-inverting LM741 op-amp circuits, with gains around −2.96 and 2.48 respectively across several inputs. The lab was intended for a two-person team; individual contributions are not specified."
+  },
+  {
+    "id": "coursework.phy303k.mechanics-discussion",
+    "title": "PHY 303K: Engineering Physics I",
+    "section": "Mechanics Discussion Work",
+    "source": "coursework",
+    "text": "Spring 2025 PHY 303K discussion exercises included kinematics and free-body diagrams for falling objects, connected masses and friction, as well as conservation of energy and momentum, rotational inertia and torque. Individual authorship of the worked solutions was not identified."
+  },
+  {
+    "id": "coursework.ece312h.sorted-set",
+    "title": "ECE 312H: Software Design and Implementation I",
+    "section": "Sorted Set Implementation",
+    "source": "coursework",
+    "text": "For ECE 312H, Chris completed portions of a provided C-style set implementation, adding binary-search membership checking, insertion into a sorted dynamic array, removal and set operations. Successful test results have not been established."
+  },
+  {
+    "id": "coursework.ece312h.customer-database",
+    "title": "ECE 312H: Software Design and Implementation I",
+    "section": "Customer Database and Inventory",
+    "source": "coursework",
+    "text": "In an ECE 312H assignment, Chris extended a provided C++ customer and inventory program. His implementation adds customer lookup or insertion, doubles the backing array when capacity is reached, and handles purchase and return transactions. Test outcomes have not been verified."
+  },
+  {
+    "id": "coursework.ece319h.digital-piano",
+    "title": "ECE 319H: Introduction to Embedded Systems",
+    "section": "Digital Piano Lab",
+    "source": "coursework",
+    "text": "For an ECE 319H lab, Chris and a partner implemented a digital-piano design around an MSPM0 microcontroller, four switch inputs and a five-bit resistor-network digital-to-analog converter. The code selects tone periods from key presses and uses timer-driven waveform output. The individual contribution split and physical demonstration are unconfirmed."
+  },
+  {
+    "id": "project.atlas-laboratory-agent.action-gate",
+    "title": "Atlas Laboratory Agent (COE 379L Midterm Project)",
+    "section": "Action Validation",
+    "source": "project",
+    "text": "Chris designed Atlas to run a bounded decision-and-tool loop and validate proposed actions before execution. For a laboratory reservation, the action gate checks proposed identity, project, resource and time against the trusted request and verifies policies, authorization, qualifications and availability. Missing required information prompts clarification."
+  },
+  {
+    "id": "project.atlas-laboratory-agent.response-validation",
+    "title": "Atlas Laboratory Agent (COE 379L Midterm Project)",
+    "section": "Response Validation",
+    "source": "project",
+    "text": "For his COE 379L Atlas laboratory agent, Chris implemented final-response validation that checks whether citations were retrieved and whether claimed completed actions match successful actions recorded in the trace. His report notes that these checks do not guarantee that every statement in the final response is factually accurate."
+  },
+  {
+    "id": "project.atlas-laboratory-agent.student-tests",
+    "title": "Atlas Laboratory Agent (COE 379L Midterm Project)",
+    "section": "Student Tests",
+    "source": "project",
+    "text": "Chris wrote Atlas tests for three unsafe or unsupported cases: substituting a different user identity in a reservation request, falsely claiming a reservation was completed, and citing a passage that had not been retrieved. The tests check that the relevant action or response is rejected."
+  },
+  {
+    "id": "project.tetris-mspm0g3507.pcb-design",
+    "title": "Tetris on MSPM0G3507 (ECE 319H Final Project)",
+    "section": "PCB Design",
+    "source": "project",
+    "text": "For the ECE 319H Tetris project, Chris designed a KiCad schematic and PCB layout. The design includes an MSPM0G3507 development board, ST7735 display options, game-control switches, a slide potentiometer and an audio amplifier. Fabrication and a successful hardware demonstration have not been confirmed."
+  },
+  {
+    "id": "project.lc3b-simulator-toolchain.interrupts-exceptions",
+    "title": "LC-3b Assembler and Simulators (ECE 460N Labs 1-5)",
+    "section": "Interrupts and Exceptions",
+    "source": "project",
+    "text": "Chris’s ECE 460N Lab 4 report describes an LC-3b simulator design for interrupts and exceptions. It covers switching between user and supervisor stacks, saving and restoring the program counter and status register, vector lookup and return from interrupt, as well as detecting protection, unaligned-access and unknown-opcode exceptions."
+  },
+  {
+    "id": "project.graphpoet-assignment-4.bridge-selection",
+    "title": "GraphPoet: Graph-Based Poem Generator (ECE 422C Assignment 4)",
+    "section": "Bridge Word Selection",
+    "source": "project",
+    "text": "Chris’s Java GraphPoet submission constructs a weighted graph of word adjacencies from a text corpus. For adjacent input words, it searches for an intermediate word forming a two-edge path and selects a candidate using the weight of the first edge."
+  },
+  {
+    "id": "coursework.ugs104.career-fair-presentation",
+    "title": "UGS 104: FIG/TrIG Peer Mentor Preparation Course",
+    "section": "Career Fair Presentation",
+    "source": "coursework",
+    "text": "In Spring 2026, Chris presented on internship opportunities and UT Engineering Expo for his UGS 104 peer-mentor preparation course. His slides covered career-fair preparation, what to wear and bring, and elevator pitches, and used Slido polls to engage the audience. Instructor feedback documented strengths and suggested additional interaction."
+  },
+  {
+    "id": "coursework.ugs104.student-success-curriculum",
+    "title": "UGS 104: FIG/TrIG Peer Mentor Preparation Course",
+    "section": "Seminar Curriculum Planning",
+    "source": "coursework",
+    "text": "For UGS 104, Chris planned a 15-week first-year seminar curriculum with learning objectives and activities covering campus resources, housing, career preparation, financial literacy, registration, research, burnout prevention and finals. This was a proposed curriculum; delivery of every session is not confirmed."
+  },
+  {
+    "id": "project.acoustic-leak-detection-proposal.water-loss",
+    "title": "Acoustic Leak Detection Proposal for Clear Lake (ECE 333T)",
+    "section": "Evidence and Scope",
+    "source": "project",
+    "text": "In his ECE 333T acoustic leak-detection proposal, Chris cited the Clear Lake City Water Authority’s reported 2024 water loss of approximately 373 million gallons, including about 214 million gallons categorized as unreported loss. He proposed evaluating a targeted sensor pilot; the figures describe reported water loss, not savings achieved by his project."
+  },
+  {
+    "id": "project.mastermind-game.guess-scoring",
+    "title": "Mastermind Text Game (ECE 422C Assignment 2)",
+    "section": "Input Validation and Scoring",
+    "source": "project",
+    "text": "In Chris’s ECE 422C Java Mastermind game, guess validation checks length and permitted colors and supports a history command. Scoring counts exact-position matches before matching remaining colors, marking consumed positions to avoid counting the same peg twice."
+  }
+]
