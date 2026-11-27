@@ -101,7 +101,7 @@ Python constructs `sources` by looking up the validated citation IDs in the retr
 
 The UI displays the paragraph text with numbered citations such as [1] or [2]. Citation numbers are assigned in order of first appearance, and repeated references to the same passage use the same number. Each citation corresponds to a source in `sources` through its ID.
 
-The UI allows users to expand a citation to view the source, title, section, and original supporting passage. This gives visitors additional context and allows them to inspect the evidence behind an answer without requiring links to external documents.
+The UI allows users to expand a citation to view the source, title, section, and original supporting passage. This gives user additional context and allows them to inspect the evidence behind an answer without requiring links to external documents.
 
 For a validated response with status: "abstain", Python returns the response with an empty sources array. The UI displays “I couldn’t find enough information to answer that.”
 
