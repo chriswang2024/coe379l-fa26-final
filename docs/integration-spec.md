@@ -103,16 +103,6 @@ The UI displays the paragraph text with numbered citations such as [1] or [2]. C
 
 The UI allows users to expand a citation to view the source, title, section, and original supporting passage. This gives visitors additional context and allows them to inspect the evidence behind an answer without requiring links to external documents.
 
-If the model determines that there is not enough evidence to answer the question and Lean accepts the response, Python returns: 
-
-```json
-{
-  "status": "abstain",
-  "paragraphs": [],
-  "sources": []
-}
-```
-
-The UI displays “I couldn’t find enough information to answer that.”
+For a validated response with status: "abstain", Python returns the response with an empty sources array. The UI displays “I couldn’t find enough information to answer that.”
 
 For an invalid question, checker rejection, or service failure, Python sends an HTTP error status and puts the message directly in the response body as `text/plain; charset=utf-8`. For example, a blank question gets HTTP `400` with the body `Please enter a question.` The UI checks response.ok to tell whether the request succeeded. It reads successful responses using response.json() and error messages using response.text(). 
